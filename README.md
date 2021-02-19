@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I go by Vy and I am a current college student at GMU!
+### I go by Vy! 
 ### I'm currently learning Javascript, Python, and Maven 
 
 <!--
