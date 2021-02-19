@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I go by Vy and I am a current college student at GMU!
+### I'm currently learning Javascript, Python, and Maven 
 
 <!--
 **thuyvytran/thuyvytran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
