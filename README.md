@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I go by Vy! 
-### I'm currently learning Javascript, Python, and Maven 
+### I'm currently learning Javascript, Python, React.js, and Maven 
 
 <!--
 **thuyvytran/thuyvytran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
