@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I go by Vy! 
 ### I'm currently learning Javascript, Python, React.js, and Maven 
+### Will be interning at Tufts University AABL (Assistive Agent Behavior and Learning Lab) as a research assitance 
 
 <!--
 **thuyvytran/thuyvytran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
