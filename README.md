@@ -3,7 +3,7 @@
 ### I'm currently learning Javascript, Python, React.js, and Maven 
 ### I was a reseracher intern at Tufts University AABL (Assistive Agent Behavior and Learning Lab) during the summer 2021 here is the link to the (https://thuyvytran.github.io/)[site]
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
