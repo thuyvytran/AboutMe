@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I go by Vy! 
 ### I'm currently learning Javascript, Python, React.js, and Maven 
-### I was a reseracher intern at Tufts University AABL (Assistive Agent Behavior and Learning Lab) during the summer 2021 here is the link to the (https://thuyvytran.github.io/)[site]
+### I was a reseracher intern at Tufts University AABL (Assistive Agent Behavior and Learning Lab) during the summer 2021 here is the link to the [site](https://thuyvytran.github.io/)
 
 
 
