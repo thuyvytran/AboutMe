@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I go by Vy! :)
-### I'm currently on my last semester as a Computer Science student at GMU!
+### I have degree in Computer Science
 ### I will be an incoming Software Engineer this upcoming July 2022. Previously I was a reseracher intern at Tufts University AABL (Assistive Agent Behavior and Learning Lab) during the Summer of 2021 here is the link to the [site](https://thuyvytran.github.io/)
 ### I am currently learning TypeScript! 
 
